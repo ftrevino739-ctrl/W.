@@ -1,5 +1,5 @@
 --[[
-WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+WARNING: Heads up! This script has been verified by ScriptBlox ✅
 ]]
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
